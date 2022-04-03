@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Spirit Level</string>
+    <string name="sensor_value">X: %1$s  Y: %2$s</string>
 </resources>
